@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- I am Software Engineer and an aspiring Cyber Security enthusiast currently living in Paris,France.
+
+- I want to contribute to open source projects and create educational content.
+    
+- I am passionate about teaching people what I learned. So if you have a project involving teaching people new things, feel free to reach out.
+
 <!--
 **jaouhary/jaouhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
