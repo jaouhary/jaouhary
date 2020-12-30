@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I am Software Engineer and an aspiring Cyber Security enthusiast currently living in Paris,France.
+- I am Software Engineer currently living in Paris,France.
 
 - I want to contribute to open source projects and create educational content.
     
